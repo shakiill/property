@@ -6615,10 +6615,10 @@ a.button,
   background: linear-gradient(148deg, #fd5559 0%, #ff337d 100%);
 }
 
-.homepage-4 .head-tr.bottom {
-  background: transparent;
-  border: 0px;
-}
+/*.homepage-4 .head-tr.bottom {*/
+/*  background: transparent;*/
+/*  border: 0px;*/
+/*}*/
 
 .homepage-4 .slick-prev:hover,
 .homepage-4 .slick-next:hover {
@@ -18286,9 +18286,9 @@ ul.the-agents-details li a {
   margin-bottom: 0px;
 }
 
-section.single-proper.details {
-  padding: 6rem 0 !important;
-}
+/*section.single-proper.details {*/
+/*  padding: 6rem 0 !important;*/
+/*}*/
 
 .agents.det .portfolio {
   margin-bottom: 30px;
